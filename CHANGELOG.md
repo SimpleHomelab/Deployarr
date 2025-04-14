@@ -1,5 +1,10 @@
 <h3>Releases</h3>
 
+<h5>v5.7.1 - April 14, 2025</h5>
+<ul>
+<li>Deployarr is now Deployrr. No further updates here. Check https://github.com/SimpleHomelab/Deployrr</li>
+</ul>
+
 <h5>v5.7 - March 5, 2025</h5>
 Total Supported Apps: 140+
 

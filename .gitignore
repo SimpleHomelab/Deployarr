@@ -1,11 +1,6 @@
 *
 */
 
-!deployarr_v5.6.app 
-!deployarr_v5.6-arm.app 
-!deployarr_v5.7.app 
-!deployarr_v5.7-arm.app 
-
 !.gitignore
 !announcement
 !CHANGELOG.md
